@@ -1,0 +1,326 @@
+commit e3dce7b2037b77ea25a99a435c065a88b33e1122
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Thu Apr 13 16:09:10 2023 -0400
+
+    Backup of final finished version
+
+commit 838314ba8efe24567dee3e06dfb53df1a7a27787
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Thu Apr 13 15:56:03 2023 -0400
+
+    Update comment documentation for mini5phone.c
+
+commit fbd3bb0e4c1cd8d7b7a705bd8d4595d9c687b0b4
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Wed Apr 12 17:43:19 2023 -0400
+
+    Backup for working code afternoon of 2023-04-12
+
+commit 15e643896225805e3cc89826e3189cfc45432a14
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Wed Apr 12 17:39:29 2023 -0400
+
+    Fix if in make test
+
+commit 86ea0dc6bf643f3dd25de66bde98185f1ec90b01
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Wed Apr 12 17:30:09 2023 -0400
+
+    Fix if statement for *.o in make test
+
+commit 4d4fc6f9ededdd9cfe721d9b80afdb142bf89337
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Wed Apr 12 17:06:39 2023 -0400
+
+    Simplified and clarified boolean logic in delete
+
+commit 539e06989abec3289e3cfb1656c49062ab256ce3
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Wed Apr 12 16:58:57 2023 -0400
+
+    Fix segmentation fault for delete when csv exists but is empty
+
+commit d9432c194885ab1603baaa04e215ff222c4394dc
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Wed Apr 12 16:44:40 2023 -0400
+
+    Fix some IPACS in mini5phone.c
+
+commit 66ca8a52b44ecfb4523ff3907da63762b198746a
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Wed Apr 12 16:07:26 2023 -0400
+
+    Fix some formatting and IPACS
+
+commit 1caa17d43e8e2879cc37b5cad6c765c2677d3232
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Wed Apr 12 15:59:26 2023 -0400
+
+    Added quotes in if statements in Makefile
+
+commit 3fd92ae1704a9959427d0df9e208fe51551384af
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Wed Apr 12 15:55:47 2023 -0400
+
+    Change flag to -f for rm commands in Makefile
+
+commit b5a2900662fd96813804ba8ae710481a3a58a55d
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Wed Apr 12 15:48:19 2023 -0400
+
+    Added if statement to remoev phonebook.csv in make test
+
+commit 92893ff6f0b37a19792ac81aae1e9b695d660f16
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Wed Apr 12 15:41:09 2023 -0400
+
+    Fix bug in addRecord and in Makefile
+
+commit 70c4462ecbd74ff26497a46c6e7624bdaebea1af
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Wed Apr 12 14:01:32 2023 -0400
+
+    Fix bugs from previous merge conflicts
+
+commit b075926deaefb1d186d2a1c97757fcc1e3b82224
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Wed Apr 12 13:30:40 2023 -0400
+
+    Change error flow for input 2
+
+commit 0290a707126765bb6069e5a276b704b1f8051280
+Merge: 38e4423 85a08c6
+Author: Stefan Wallin <swalli2@teach-node-01.cs.mcgill.ca>
+Date:   Wed Apr 12 12:36:12 2023 -0400
+
+    solved merge cnflicts in option selection 2 in mini5main.c and delete function in mini5phone.c
+
+commit 38e442315081a6f0876e589c42f7d61d783db46f
+Author: Stefan Wallin <swalli2@teach-node-01.cs.mcgill.ca>
+Date:   Wed Apr 12 11:46:34 2023 -0400
+
+    Added comments and formatted code in delete function.
+
+commit 797347dbc6f60a82e927fd4931ba41d27f566160
+Author: Stefan Wallin <swalli2@teach-node-01.cs.mcgill.ca>
+Date:   Wed Apr 12 11:31:29 2023 -0400
+
+    Fixed bug in delete function
+
+commit 85a08c6fc96382123d92d3519df315e09878291c
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Wed Apr 12 09:34:56 2023 -0400
+
+    Add backup for working code of morning of 2023-04-12
+
+commit bebfa27ec5fd42871d75385688e8b28228faefb0
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Wed Apr 12 09:30:42 2023 -0400
+
+    Bug fix in name input for delete option
+
+commit 4d26a6e61653a4d9e74a70f8cfc2bf015282f143
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Wed Apr 12 09:21:26 2023 -0400
+
+    Code clean up and formatting, bug fixing in prompt of clear or delete
+
+commit b3da8aa4482a787ca8108810b87e9bc8adbfe9d2
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Wed Apr 12 09:06:22 2023 -0400
+
+    T8 fix memory leak in clear()
+
+commit 45f7cd906228b2839b71b15055db2bed4edd3d5e
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Wed Apr 12 08:53:58 2023 -0400
+
+    T7 Fix bug in delete(), clean up, clarify comments
+
+commit bd6578f2e262c11a468cbeb5856fa823006a32dd
+Author: Stefan Wallin <swalli2@teach-node-01.cs.mcgill.ca>
+Date:   Wed Apr 12 01:19:33 2023 -0400
+
+    Cleaned code, added comments,and tested option selection 2 in mini5main.c
+
+commit bf9108342edc753f71e3e4537e7edcc60d5323ab
+Author: Stefan Wallin <swalli2@teach-node-01.cs.mcgill.ca>
+Date:   Tue Apr 11 22:05:55 2023 -0400
+
+    Implemented delete method.
+
+commit f9c44bcbb700e084f22956b67597500cc66287d8
+Author: Stefan Wallin <swalli2@teach-node-01.cs.mcgill.ca>
+Date:   Tue Apr 11 20:41:28 2023 -0400
+
+    Added comments and fixed minor bugs in option selection 2 in mini5main.c
+
+commit e1464a99d1b9b53db01f3b27dbb6b939f672b645
+Author: Stefan Wallin <swalli2@teach-node-01.cs.mcgill.ca>
+Date:   Tue Apr 11 11:40:38 2023 -0400
+
+    Implemented prompts for menu selection 2.
+
+commit 6b71a791646a66d7e666573042e03ce7c14095eb
+Author: Stefan Wallin <swalli2@teach-node-01.cs.mcgill.ca>
+Date:   Mon Apr 10 16:08:35 2023 -0400
+
+    completed T6
+
+commit c70e3c529ca81fc109c98935325b03e0e78b76f8
+Author: Stefan Wallin <swalli2@teach-node-01.cs.mcgill.ca>
+Date:   Mon Apr 10 15:47:34 2023 -0400
+
+    completed T5
+
+commit 0f4cc672474890c48f076f5b82c5fcef69641b61
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Mon Apr 10 11:57:43 2023 -0400
+
+    Clean clear code
+
+commit 72fe2a28a59390407e1b5fb3b38ffe2543dcd6ae
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Mon Apr 10 11:46:08 2023 -0400
+
+    T8 - Added clear functionality in mini5phone.c
+
+commit d64d5a39431517efdb354ae99ec2a951b26d2cdd
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Sun Apr 9 18:28:56 2023 -0400
+
+    Added feedback loop
+
+commit a9e99c90a092bad9518624bbc18572047aa95578
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sun Apr 9 14:51:49 2023 -0400
+
+    T4 Fix bugs in loadCSV and finished task T4
+
+commit bef36c845a7775ebc321a3f36365d7ad659e7d6a
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sun Apr 9 14:26:07 2023 -0400
+
+    T4 Updated listRecords
+
+commit d90901bb625ddef02604fba17b2e90538f13cb3e
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sun Apr 9 14:10:57 2023 -0400
+
+    T4 Updated findRecord
+
+commit e6c5cbe62e782ea3cfbc650b719d148949967b10
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sun Apr 9 13:33:03 2023 -0400
+
+    T4 Updated addRecord
+
+commit e683a2f95cd5aaa7710f58d8a8167524795b81bc
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sun Apr 9 13:17:23 2023 -0400
+
+    T4 Updated saveCSV
+
+commit 549da682dc448a65afef94d729554943ad6b957c
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sun Apr 9 13:10:23 2023 -0400
+
+    T4 Removed unnecessary number of records variable and updated loadCSV
+
+commit ecd8b5fae9b6802709ff6e79edd39a122e1606d7
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sun Apr 9 11:44:00 2023 -0400
+
+    T4 Updated main for the new linkedlist struct and infinite phonebook
+
+commit 80b966280b1e71d3a668b38e13d176f2bdb7b24e
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sun Apr 9 11:40:03 2023 -0400
+
+    T4 Updated struct for the linkedlist
+
+commit 4138de320766c23b9629f24ca4d71c1fa5a3e894
+Merge: 849248e daa6796
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sat Apr 8 20:20:08 2023 -0400
+
+    Merge branch 'main' into T10
+
+commit 849248ee2140dd157762a77f4c122250e7d99c3c
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sat Apr 8 20:16:40 2023 -0400
+
+    T10 Moved keyboard read in menu to main
+
+commit daa6796e38cc3ac1bbbd60856ce3aa2354863aa1
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Sat Apr 8 20:15:08 2023 -0400
+
+    Remove phonebook.csv when testing
+
+commit c8bd6aea07603adc6cceb716ac40c945d3ab4461
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sat Apr 8 20:01:18 2023 -0400
+
+    Update gitignore
+
+commit c30f4f635a5442a73ed678ff3863045e8537ffda
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Sat Apr 8 19:53:23 2023 -0400
+
+    Merge makefile
+
+commit db1eb83e79aa79de3d8dece5636cf613c9e19576
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Sat Apr 8 19:48:46 2023 -0400
+
+    Fix never showing up to date bug
+
+commit c19a1a144728a7f28bd8736933e23f5f3e0c5c52
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Sat Apr 8 19:24:39 2023 -0400
+
+    Update Makefile with new architecture and change executable name to phonebook
+
+commit 5d15305e88381c5b4d2574f7a4eee288d56d77ec
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sat Apr 8 19:08:09 2023 -0400
+
+    Added gitignore
+
+commit 726ffbbdba21448437c7262509ee06f17196aa31
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sat Apr 8 19:07:53 2023 -0400
+
+    T2-T3 Solve some bugs for the make actions and made tester executable
+
+commit c2079499257e1e1fa34cb705a395b2413eaee070
+Merge: 99251f3 ff4fe85
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sat Apr 8 18:47:45 2023 -0400
+
+    Merge branch 'main' of comp206-group007:code-repository
+
+commit ff4fe850e58225b26b6e83efbce08bd72cd05e7f
+Author: Kevin Luo <kluo6@teach-node-04.cs.mcgill.ca>
+Date:   Sat Apr 8 18:44:09 2023 -0400
+
+    Initial makefile without modular architecture
+
+commit 99251f34dd0f75659b6c03621043ee6f69ef7876
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sat Apr 8 18:35:13 2023 -0400
+
+    T2 Create .h library and made program modular
+
+commit aae806268fa0e133b7748887cba62ad39e2da800
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sat Apr 8 17:40:28 2023 -0400
+
+    T1 Refactored comments and documentation for functions and program and added all authors
+
+commit d5b7f0adc1f2f9ac3df733e238f41d54c2ab2b6d
+Author: Siger Ma <sma65@teach-node-08.cs.mcgill.ca>
+Date:   Sat Apr 8 17:16:39 2023 -0400
+
+    T1 Add starter code from mini 4B
